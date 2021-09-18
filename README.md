@@ -12,5 +12,5 @@
 <p align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarletgabriella&layout=compact&langs_count=8&theme=dracula" /> </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/scarletgabriella" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rafamoliv" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/scarletgabriella" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="scarletgabriella" height="20" width="20" /></a>
 </p>
