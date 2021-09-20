@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👽, I'm Scarlet Gabriella</h1>
-<h3 align="center"><img height="100em" align="right" alt="scr-naruto" src="https://c.tenor.com/OxE-OUvzdocAAAAC/smile-naruto.gif"></h3>
+<h3 align="center"><img height="150em" align="right" alt="scr-naruto" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611e4c773db46b23f732d6c2cca7ae49af6d20157e4&rid=giphy.gif&ct=g"></h3>
 </br>
 - 👨‍💻 Todos os meus projetos estão disponíveis em https://github.com/scarletgabriella
 
