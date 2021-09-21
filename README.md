@@ -7,9 +7,9 @@
 
 - 📫 Como me encontrar **scarletgabriella0@gmail.com**
 
-- 💚 Hobbies **Trekking, Nineboot, Animes, Séries, Xadrez, Games 😜**
+- 💚 Hobbies **Trekking, Nineboot, Animes, Séries, Xadrez, Games**
 </br>
-<p align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarletgabriella&layout=compact&langs_count=8&theme=dracula" /> </p>
+<p align="center"> <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarletgabriella&layout=compact&langs_count=8&theme=dracula" /> </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/scarletgabriella" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="scarletgabriella" height="20" width="20" /></a>
